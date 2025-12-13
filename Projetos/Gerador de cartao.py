@@ -2,7 +2,7 @@
 #garador de senha de cartão
 import secrets
 
-
+print("="*20,"🗃️","GERADOR DE CARTAO","="*20)
 def gerar_senha_memoravel(palavras=4, separador="."):
     """
     Gera uma senha memorável usando palavras aleatórias
@@ -28,3 +28,4 @@ def gerar_senha_memoravel(palavras=4, separador="."):
 # Uso
 senha_memoravel = gerar_senha_memoravel()
 print(f" Segue a sua nova senha : {senha_memoravel}")
+
