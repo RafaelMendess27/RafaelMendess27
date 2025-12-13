@@ -1,4 +1,3 @@
-
 #garador de senha de cartão
 import secrets
 
