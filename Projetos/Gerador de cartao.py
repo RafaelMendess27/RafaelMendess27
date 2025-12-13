@@ -1,6 +1,6 @@
 #garador de senha de cartão
 import secrets
-
+#atualização
 print("="*20,"🗃️","GERADOR DE CARTAO","="*20)
 def gerar_senha_memoravel(palavras=4, separador="."):
     """
