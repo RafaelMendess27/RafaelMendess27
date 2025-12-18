@@ -1,3 +1,5 @@
+
+# separa cada variavel para sua lista em expecifico 
 lista= list()
 pares = list()
 impares = list()
