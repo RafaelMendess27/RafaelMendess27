@@ -7,7 +7,7 @@ while True:
     resp=str(input('quer continuar? [s/n] ')).upper()
     if resp=='N':
         break
-for pos,v in enumerate(lista): # verifica a posição e o valor
+for pos,v in enumerate(lista): # verifica a posição e o valor na lista 
     if v%2==0:
         pares.append(v)
     else:
